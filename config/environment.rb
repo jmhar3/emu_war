@@ -1,2 +1,2 @@
-require_relative '../lib/apocalypto/CLI/cli.rb'
-require_relative '../lib/apocalypto_app.rb'
+require_relative '../lib/emu_war/CLI/cli.rb'
+require_relative '../lib/emu_war_app.rb'
